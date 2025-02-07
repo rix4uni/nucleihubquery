@@ -1,0 +1,8 @@
+#!/bin/bash
+
+find ~/nucleihub-templates -type f -name "*.yaml" -exec yq -r '.info.metadata."shodan-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | egrep -av "^vuln:$" | unew -q shodan-query.txt
+find ~/nucleihub-templates -type f -name "*.yaml" -exec yq -r '.info.metadata."google-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | unew -q google-query.txt
+find ~/nucleihub-templates -type f -name "*.yaml" -exec yq -r '.info.metadata."censys-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | unew -q censys-query.txt
+find ~/nucleihub-templates -type f -name "*.yaml" -exec yq -r '.info.metadata."fofa-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | unew -q fofa-query.txt
+find ~/nucleihub-templates -type f -name "*.yaml" -exec yq -r '.info.metadata."hunter-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | unew -q hunter-query.txt
+find ~/nucleihub-templates -type f -name "*.yaml" -exec yq -r '.info.metadata."zoomeye-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | unew -q zoomeye-query.txt
