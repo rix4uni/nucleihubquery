@@ -1,0 +1,51 @@
+name: Medium Writeups
+
+on:
+  schedule:
+    - cron: '* */12 * * *'
+  push:
+    branches:
+      - main
+
+# Actions project permission
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check out repository
+      uses: actions/checkout@v3
+
+    - name: Installing tar and unew via binary
+      run: |
+        sudo apt install unzip -y
+        sudo apt install tar
+        wget https://github.com/rix4uni/unew/releases/download/v0.0.5/unew-linux-amd64-0.0.5.tgz
+        tar -xvzf unew-linux-amd64-0.0.5.tgz
+        mv unew /usr/local/bin/unew
+        rm -rf unew-linux-amd64-0.0.5.tgz
+
+        git clone https://github.com/rix4uni/nucleihub-templates.git --depth 1 nucleihub-templates &>/dev/null
+        wget -q -O /usr/local/bin/yq https://github.com/mikefarah/yq/releases/latest/download/yq_linux_amd64 &>/dev/null && chmod +x /usr/local/bin/yq
+
+    - name: Running scope_moniter.sh
+      run: |
+        bash nucleihubquery
+
+    - name: Commit and push changes if there are any
+      run: |
+        git config --global user.name 'GitHub Actions'
+        git config --global user.email 'actions@users.noreply.github.com'
+        git add .
+        
+        # Check if there are changes before committing
+        if ! git diff --cached --exit-code; then
+          IST_DATE=$(TZ='Asia/Kolkata' date +'%a %b %d %H:%M:%S IST %Y')
+          git commit -m "Updated List: $IST_DATE"
+          git push
+        else
+          echo "No changes to commit"
+        fi
