@@ -4,47 +4,47 @@
 mkdir -p shodan google censys fofa hunter zoomeye
 
 # All Dorks
-find ~/nucleihub-templates -type f -name "*.yaml" -exec yq -r '.info.metadata."shodan-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | egrep -av "^vuln:$" | unew -q shodan/shodan-query-all.txt
-find ~/nucleihub-templates -type f -name "*.yaml" -exec yq -r '.info.metadata."google-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | unew -q google/google-query-all.txt
-find ~/nucleihub-templates -type f -name "*.yaml" -exec yq -r '.info.metadata."censys-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | unew -q censys/censys-query-all.txt
-find ~/nucleihub-templates -type f -name "*.yaml" -exec yq -r '.info.metadata."fofa-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | unew -q fofa/fofa-query-all.txt
-find ~/nucleihub-templates -type f -name "*.yaml" -exec yq -r '.info.metadata."hunter-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | unew -q hunter/hunter-query-all.txt
-find ~/nucleihub-templates -type f -name "*.yaml" -exec yq -r '.info.metadata."zoomeye-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | unew -q zoomeye/zoomeye-query-all.txt
+find nucleihub-templates -type f -name "*.yaml" -exec yq -r '.info.metadata."shodan-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | egrep -av "^vuln:$" | unew -q shodan/shodan-query-all.txt
+find nucleihub-templates -type f -name "*.yaml" -exec yq -r '.info.metadata."google-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | unew -q google/google-query-all.txt
+find nucleihub-templates -type f -name "*.yaml" -exec yq -r '.info.metadata."censys-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | unew -q censys/censys-query-all.txt
+find nucleihub-templates -type f -name "*.yaml" -exec yq -r '.info.metadata."fofa-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | unew -q fofa/fofa-query-all.txt
+find nucleihub-templates -type f -name "*.yaml" -exec yq -r '.info.metadata."hunter-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | unew -q hunter/hunter-query-all.txt
+find nucleihub-templates -type f -name "*.yaml" -exec yq -r '.info.metadata."zoomeye-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | unew -q zoomeye/zoomeye-query-all.txt
 
 
 
 # shodan
-find ~/nucleihub-templates -type f -name "*.yaml" -exec yq -r 'select((.info.severity // "") | test("(?i)^critical$")) | .info.metadata."shodan-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | egrep -av "^vuln:$" | unew -q shodan/shodan-query-critical.txt
-find ~/nucleihub-templates -type f -name "*.yaml" -exec yq -r 'select((.info.severity // "") | test("(?i)^high$")) | .info.metadata."shodan-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | egrep -av "^vuln:$" | unew -q shodan/shodan-query-high.txt
-find ~/nucleihub-templates -type f -name "*.yaml" -exec yq -r 'select((.info.severity // "") | test("(?i)^medium$")) | .info.metadata."shodan-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | egrep -av "^vuln:$" | unew -q shodan/shodan-query-medium.txt
-find ~/nucleihub-templates -type f -name "*.yaml" -exec yq -r 'select((.info.severity // "") | test("(?i)^low$")) | .info.metadata."shodan-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | egrep -av "^vuln:$" | unew -q shodan/shodan-query-low.txt
+find nucleihub-templates -type f -name "*.yaml" -exec yq -r 'select((.info.severity // "") | test("(?i)^critical$")) | .info.metadata."shodan-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | egrep -av "^vuln:$" | unew -q shodan/shodan-query-critical.txt
+find nucleihub-templates -type f -name "*.yaml" -exec yq -r 'select((.info.severity // "") | test("(?i)^high$")) | .info.metadata."shodan-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | egrep -av "^vuln:$" | unew -q shodan/shodan-query-high.txt
+find nucleihub-templates -type f -name "*.yaml" -exec yq -r 'select((.info.severity // "") | test("(?i)^medium$")) | .info.metadata."shodan-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | egrep -av "^vuln:$" | unew -q shodan/shodan-query-medium.txt
+find nucleihub-templates -type f -name "*.yaml" -exec yq -r 'select((.info.severity // "") | test("(?i)^low$")) | .info.metadata."shodan-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | egrep -av "^vuln:$" | unew -q shodan/shodan-query-low.txt
 
 # censys
-find ~/nucleihub-templates -type f -name "*.yaml" -exec yq -r 'select((.info.severity // "") | test("(?i)^critical$")) | .info.metadata."censys-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | unew -q censys/censys-query-critical.txt
-find ~/nucleihub-templates -type f -name "*.yaml" -exec yq -r 'select((.info.severity // "") | test("(?i)^high$")) | .info.metadata."censys-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | unew -q censys/censys-query-high.txt
-find ~/nucleihub-templates -type f -name "*.yaml" -exec yq -r 'select((.info.severity // "") | test("(?i)^medium$")) | .info.metadata."censys-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | unew -q censys/censys-query-medium.txt
-find ~/nucleihub-templates -type f -name "*.yaml" -exec yq -r 'select((.info.severity // "") | test("(?i)^low$")) | .info.metadata."censys-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | unew -q censys/censys-query-low.txt
+find nucleihub-templates -type f -name "*.yaml" -exec yq -r 'select((.info.severity // "") | test("(?i)^critical$")) | .info.metadata."censys-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | unew -q censys/censys-query-critical.txt
+find nucleihub-templates -type f -name "*.yaml" -exec yq -r 'select((.info.severity // "") | test("(?i)^high$")) | .info.metadata."censys-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | unew -q censys/censys-query-high.txt
+find nucleihub-templates -type f -name "*.yaml" -exec yq -r 'select((.info.severity // "") | test("(?i)^medium$")) | .info.metadata."censys-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | unew -q censys/censys-query-medium.txt
+find nucleihub-templates -type f -name "*.yaml" -exec yq -r 'select((.info.severity // "") | test("(?i)^low$")) | .info.metadata."censys-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | unew -q censys/censys-query-low.txt
 
 # fofa
-find ~/nucleihub-templates -type f -name "*.yaml" -exec yq -r 'select((.info.severity // "") | test("(?i)^critical$")) | .info.metadata."fofa-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | unew -q fofa/fofa-query-critical.txt
-find ~/nucleihub-templates -type f -name "*.yaml" -exec yq -r 'select((.info.severity // "") | test("(?i)^high$")) | .info.metadata."fofa-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | unew -q fofa/fofa-query-high.txt
-find ~/nucleihub-templates -type f -name "*.yaml" -exec yq -r 'select((.info.severity // "") | test("(?i)^medium$")) | .info.metadata."fofa-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | unew -q fofa/fofa-query-medium.txt
-find ~/nucleihub-templates -type f -name "*.yaml" -exec yq -r 'select((.info.severity // "") | test("(?i)^low$")) | .info.metadata."fofa-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | unew -q fofa/fofa-query-low.txt
+find nucleihub-templates -type f -name "*.yaml" -exec yq -r 'select((.info.severity // "") | test("(?i)^critical$")) | .info.metadata."fofa-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | unew -q fofa/fofa-query-critical.txt
+find nucleihub-templates -type f -name "*.yaml" -exec yq -r 'select((.info.severity // "") | test("(?i)^high$")) | .info.metadata."fofa-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | unew -q fofa/fofa-query-high.txt
+find nucleihub-templates -type f -name "*.yaml" -exec yq -r 'select((.info.severity // "") | test("(?i)^medium$")) | .info.metadata."fofa-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | unew -q fofa/fofa-query-medium.txt
+find nucleihub-templates -type f -name "*.yaml" -exec yq -r 'select((.info.severity // "") | test("(?i)^low$")) | .info.metadata."fofa-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | unew -q fofa/fofa-query-low.txt
 
 # hunter
-find ~/nucleihub-templates -type f -name "*.yaml" -exec yq -r 'select((.info.severity // "") | test("(?i)^critical$")) | .info.metadata."hunter-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | unew -q hunter/hunter-query-critical.txt
-find ~/nucleihub-templates -type f -name "*.yaml" -exec yq -r 'select((.info.severity // "") | test("(?i)^high$")) | .info.metadata."hunter-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | unew -q hunter/hunter-query-high.txt
-find ~/nucleihub-templates -type f -name "*.yaml" -exec yq -r 'select((.info.severity // "") | test("(?i)^medium$")) | .info.metadata."hunter-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | unew -q hunter/hunter-query-medium.txt
-find ~/nucleihub-templates -type f -name "*.yaml" -exec yq -r 'select((.info.severity // "") | test("(?i)^low$")) | .info.metadata."hunter-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | unew -q hunter/hunter-query-low.txt
+find nucleihub-templates -type f -name "*.yaml" -exec yq -r 'select((.info.severity // "") | test("(?i)^critical$")) | .info.metadata."hunter-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | unew -q hunter/hunter-query-critical.txt
+find nucleihub-templates -type f -name "*.yaml" -exec yq -r 'select((.info.severity // "") | test("(?i)^high$")) | .info.metadata."hunter-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | unew -q hunter/hunter-query-high.txt
+find nucleihub-templates -type f -name "*.yaml" -exec yq -r 'select((.info.severity // "") | test("(?i)^medium$")) | .info.metadata."hunter-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | unew -q hunter/hunter-query-medium.txt
+find nucleihub-templates -type f -name "*.yaml" -exec yq -r 'select((.info.severity // "") | test("(?i)^low$")) | .info.metadata."hunter-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | unew -q hunter/hunter-query-low.txt
 
 # zoomeye
-find ~/nucleihub-templates -type f -name "*.yaml" -exec yq -r 'select((.info.severity // "") | test("(?i)^critical$")) | .info.metadata."zoomeye-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | unew -q zoomeye/zoomeye-query-critical.txt
-find ~/nucleihub-templates -type f -name "*.yaml" -exec yq -r 'select((.info.severity // "") | test("(?i)^high$")) | .info.metadata."zoomeye-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | unew -q zoomeye/zoomeye-query-high.txt
-find ~/nucleihub-templates -type f -name "*.yaml" -exec yq -r 'select((.info.severity // "") | test("(?i)^medium$")) | .info.metadata."zoomeye-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | unew -q zoomeye/zoomeye-query-medium.txt
-find ~/nucleihub-templates -type f -name "*.yaml" -exec yq -r 'select((.info.severity // "") | test("(?i)^low$")) | .info.metadata."zoomeye-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | unew -q zoomeye/zoomeye-query-low.txt
+find nucleihub-templates -type f -name "*.yaml" -exec yq -r 'select((.info.severity // "") | test("(?i)^critical$")) | .info.metadata."zoomeye-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | unew -q zoomeye/zoomeye-query-critical.txt
+find nucleihub-templates -type f -name "*.yaml" -exec yq -r 'select((.info.severity // "") | test("(?i)^high$")) | .info.metadata."zoomeye-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | unew -q zoomeye/zoomeye-query-high.txt
+find nucleihub-templates -type f -name "*.yaml" -exec yq -r 'select((.info.severity // "") | test("(?i)^medium$")) | .info.metadata."zoomeye-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | unew -q zoomeye/zoomeye-query-medium.txt
+find nucleihub-templates -type f -name "*.yaml" -exec yq -r 'select((.info.severity // "") | test("(?i)^low$")) | .info.metadata."zoomeye-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | unew -q zoomeye/zoomeye-query-low.txt
 
 # google
-find ~/nucleihub-templates -type f -name "*.yaml" -exec yq -r 'select((.info.severity // "") | test("(?i)^critical$")) | .info.metadata."google-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | unew -q google/google-query-critical.txt
-find ~/nucleihub-templates -type f -name "*.yaml" -exec yq -r 'select((.info.severity // "") | test("(?i)^high$")) | .info.metadata."google-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | unew -q google/google-query-high.txt
-find ~/nucleihub-templates -type f -name "*.yaml" -exec yq -r 'select((.info.severity // "") | test("(?i)^medium$")) | .info.metadata."google-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | unew -q google/google-query-medium.txt
-find ~/nucleihub-templates -type f -name "*.yaml" -exec yq -r 'select((.info.severity // "") | test("(?i)^low$")) | .info.metadata."google-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | unew -q google/google-query-low.txt
+find nucleihub-templates -type f -name "*.yaml" -exec yq -r 'select((.info.severity // "") | test("(?i)^critical$")) | .info.metadata."google-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | unew -q google/google-query-critical.txt
+find nucleihub-templates -type f -name "*.yaml" -exec yq -r 'select((.info.severity // "") | test("(?i)^high$")) | .info.metadata."google-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | unew -q google/google-query-high.txt
+find nucleihub-templates -type f -name "*.yaml" -exec yq -r 'select((.info.severity // "") | test("(?i)^medium$")) | .info.metadata."google-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | unew -q google/google-query-medium.txt
+find nucleihub-templates -type f -name "*.yaml" -exec yq -r 'select((.info.severity // "") | test("(?i)^low$")) | .info.metadata."google-query"' {} + | sed '/^---$/d; /^null$/d; s/^\- //' | unew -q google/google-query-low.txt
