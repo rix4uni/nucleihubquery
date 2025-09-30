@@ -1,0 +1,12 @@
+app:"wordpress ultimate member plugin"
+app="SAP NetWeaver Application Server httpd
++app:"SAP NetWeaver Application Server httpd
++app:"sap netweaver application server httpd
+app:"pyload"
+app="Flarum"
+app="pyLoad"
+device="brother-Printer" || app="brother-Printer"
+app="Wing FTP Server"
+title:'jumpserver'
+app:"Swagger UI"
+app="Tiny File Manager"
