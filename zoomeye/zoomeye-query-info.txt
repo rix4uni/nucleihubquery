@@ -1,0 +1,33 @@
+device="brother-Printer" || app="brother-Printer"
+app:"screenconnect remote management software"
+title:cvsweb
+title="Greenbone Security Assistant"
+title:'JumpServer'
+app="Metasploit"
+title:'Metasploit'
+title:'metasploit'
+title:"高清智能录播系统"
+service=nfs && port=2049
+app:"pyload"
+/wpms/asset
+app:"Tableau Server"
+app="小米路由器"
+title:'小米路由器'
+service="zeroconf"
+app="screenconnect remote management software"
+app="GotWeb"
+title:"Greenbone Security Assistant"
+app:"hytec inter hwl-2511-ss"
+app:"MedDream"
+app="NocoBase"
+title:"jupyter notebook"
+app:"通达oa"
+app="Ollama"
+app:"PaperCut"
+app="pyLoad"
+app="Yacht"
+title="cvsweb"
+title:"greenbone security assistant"
+app="JumpServer Bastion Host"
+app="Tiny File Manager"
+app="Wing FTP Server"

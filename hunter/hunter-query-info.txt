@@ -1,0 +1,10 @@
+app.name="adminer"&&web.body="4.7.8"
+app.name="connectwise screenconnect software"
+web.title="Node Exporter"
+header="Prometheus Node Exporter"
+
+web.title="Splash" && header="TwistedWeb"
+web.title="电子文档安全管理系统",web.body="cdgserver3/"
+app.name="phpmyadmin"&&web.body="pma_servername"&&web.body="4.8.4"
+web.title="Prometheus Time Series Collection and Processing Server"
+favicon_hash=="5ee43b38986a144d6b5022ea8c8f748f"

@@ -1,0 +1,5 @@
+services.http.response.body:"netman204"
+services.http.response.html_title="Dashboard [Jenkins]"
+services.http.response.html_title="Script Console [Jenkins]"
+labels:"1c-bitrix"
+services.http.response.html_title:"Acronis Cyber Infrastructure" and services.port:6432
