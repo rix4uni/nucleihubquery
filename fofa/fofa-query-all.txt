@@ -17994,3 +17994,15 @@ body="truenas"
 wp-content/plugins/wp-email-delivery/
 title="X-UI Login"
 title="YunoHost Admin"
+body="/wp-content/plugins/bj-lazy-load"
+wp-content/plugins/tf-woo-product-grid/
+wp-content/plugins/emailkit/
+wp-content/plugins/wp-subscription-forms-pro/
+wp-content/plugins/block-for-mailchimp/
+app="ChurchCRM"
+wp-content/themes/denticare/
+wp-content/themes/foodbook/
+wp-content/plugins/super-blank/
+port="6066" && banner="Spark Master"
+wp-content/plugins/download-after-email/
+wp-content/plugins/yaycurrency/

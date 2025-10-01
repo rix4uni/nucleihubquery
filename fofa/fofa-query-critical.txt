@@ -3328,3 +3328,8 @@ app="通达 OA"
 wp-content/themes/travesia/
 wp-content/plugins/visitors-traffic-real-time-statistics/
 wp-content/plugins/wp-easycart/
+wp-content/plugins/sign-up-sheets/
+wp-content/plugins/translatepress-multilingual/
+wp-content/plugins/tf-woo-product-grid/
+wp-content/themes/denticare/
+port="6066" && banner="Spark Master"

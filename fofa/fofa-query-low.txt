@@ -8576,3 +8576,17 @@ wp-content/plugins/wp-flickr-press/
 wp-content/plugins/wp-foodbakery/
 wp-content/plugins/wp-registration/
 wp-content/plugins/wti-like-post/
+wp-content/plugins/advanced-settings/
+wp-content/plugins/emailkit/
+wp-content/plugins/wp-subscription-forms-pro/
+wp-content/plugins/popad/
+wp-content/plugins/block-for-mailchimp/
+wp-content/plugins/coschedule-by-todaymade/
+wp-content/themes/foodbook/
+wp-content/plugins/super-blank/
+wp-content/plugins/youtube-showcase/
+wp-content/plugins/employee-spotlight/
+wp-content/plugins/yaycurrency/
+wp-content/plugins/custom-searchable-data-entry-system/
+wp-content/plugins/download-after-email/
+wp-content/plugins/gf-hubspot/

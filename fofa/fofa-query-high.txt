@@ -6518,3 +6518,6 @@ title="X-UI Login"
 wp-content/plugins/yampi-checkout/
 wp-content/plugins/yith-custom-thank-you-page-for-woocommerce/
 wp-content/plugins/yith-woocommerce-frequently-bought-together/
+body="/wp-content/plugins/bj-lazy-load"
+wp-content/plugins/zoloblocks/
+wp-content/plugins/external-rss-reader/
