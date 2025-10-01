@@ -1,1 +1,0 @@
-services.http.response.headers.location: /config/log_off_page.htm
