@@ -10,3 +10,4 @@ app="Wing FTP Server"
 title:'jumpserver'
 app:"Swagger UI"
 app="Tiny File Manager"
+title:"Pacts"
