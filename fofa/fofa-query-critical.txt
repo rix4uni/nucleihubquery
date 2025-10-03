@@ -3332,3 +3332,8 @@ wp-content/themes/travesia/
 wp-content/plugins/visitors-traffic-real-time-statistics/
 wp-content/plugins/wp-easycart/
 mynodename
+body="TRUfusion"
+wp-content/plugins/spirit-framework/
+wp-content/plugins/yournewsapp/
+wp-content/plugins/restropress/
+wp-content/plugins/wprecovery/

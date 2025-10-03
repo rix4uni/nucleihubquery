@@ -6521,3 +6521,6 @@ title="X-UI Login"
 wp-content/plugins/yampi-checkout/
 wp-content/plugins/yith-custom-thank-you-page-for-woocommerce/
 wp-content/plugins/yith-woocommerce-frequently-bought-together/
+wp-content/plugins/my-wp-health-check/
+body="TRUfusion"
+wp-content/plugins/appy-pie-connect-for-woocommerce/

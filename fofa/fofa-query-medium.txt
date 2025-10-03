@@ -11150,3 +11150,15 @@ wp-content/plugins/woo-gutenberg-products-block/
 wp-content/plugins/wp-email-delivery/
 body="/plugins/generic/tinymce/plugins/justboil.me/"
 title="Pacts"
+wp-content/plugins/paypal-forms/
+wp-content/plugins/comment-info-detector/
+wp-content/themes/customify/
+wp-content/plugins/ap-background/
+wp-content/plugins/contentmx-content-publisher/
+wp-content/plugins/mobile-site-redirect/
+wp-content/plugins/mpwizard/
+wp-content/plugins/simple-bar/
+wp-content/plugins/ultimate-viral-quiz/
+wp-content/plugins/textbuilder/
+wp-content/plugins/wp-sinotype/
+wp-content/plugins/optimize-more-css/
