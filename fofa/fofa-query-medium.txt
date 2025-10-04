@@ -11162,3 +11162,5 @@ wp-content/plugins/ultimate-viral-quiz/
 wp-content/plugins/textbuilder/
 wp-content/plugins/wp-sinotype/
 wp-content/plugins/optimize-more-css/
+wp-content/plugins/wdesignkit/
+wp-content/plugins/trinity-audio/
