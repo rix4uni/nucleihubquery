@@ -1,11 +1,11 @@
-name: Medium Writeups
+name: NucleihubQuery
 
 on:
   schedule:
     - cron: '* */12 * * *'
-  push:
-    branches:
-      - main
+  # push:
+  #   branches:
+  #     - main
 
 # Actions project permission
 permissions:
