@@ -2636,3 +2636,5 @@ title:"Wing FTP Server"
 http.title:"xnat"
 http.html:"zm - login"
 http.title:"zywall2plus"
+http.favicon.hash:1192389544
+http.favicon.hash:1192389544 port:3580
