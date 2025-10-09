@@ -8600,3 +8600,4 @@ inurl:"/wp-content/plugins/woo-superb-slideshow-transition-gallery-with-random-e
 inurl:"/wp-content/plugins/interactive-medical-drawing-of-human-body/"
 inurl:"/wp-content/plugins/ultimate-multi-design-video-carousel/"
 inurl:"/wp-content/plugins/majestic-before-after-image/"
+inurl:"/wp-content/plugins/lisfinity-core/"

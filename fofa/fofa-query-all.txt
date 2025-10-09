@@ -18046,3 +18046,6 @@ title="ritecms"
 body="/wp-content/plugins/total-donations/"
 body="Sitecore Experience Platform"
 body="Chef Automate"
+wp-content/themes/search-and-go/
+wp-content/plugins/lisfinity-core/
+wp-content/plugins/popup-builder-block/

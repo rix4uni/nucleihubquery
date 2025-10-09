@@ -3348,3 +3348,5 @@ body="/wp-content/plugins/total-donations/"
 body="Sitecore Experience Platform"
 title="TitanNit Web Control"
 body="Chef Automate"
+wp-content/themes/search-and-go/
+wp-content/plugins/popup-builder-block/

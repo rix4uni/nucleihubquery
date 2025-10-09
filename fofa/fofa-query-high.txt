@@ -6527,3 +6527,4 @@ wp-content/plugins/appy-pie-connect-for-woocommerce/
 wp-content/plugins/integrate-dynamics-365-crm/
 title="ritecms"
 body="/wp-content/plugins/woocommerce-abandoned-cart/"
+wp-content/plugins/cookie-notice-consent/

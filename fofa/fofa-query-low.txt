@@ -8609,3 +8609,4 @@ wp-content/plugins/woo-superb-slideshow-transition-gallery-with-random-effect/
 wp-content/plugins/interactive-medical-drawing-of-human-body/
 wp-content/plugins/ultimate-multi-design-video-carousel/
 wp-content/plugins/majestic-before-after-image/
+wp-content/plugins/lisfinity-core/
