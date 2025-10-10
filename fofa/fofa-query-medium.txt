@@ -11165,3 +11165,4 @@ wp-content/plugins/optimize-more-css/
 wp-content/plugins/wdesignkit/
 wp-content/plugins/trinity-audio/
 body="/wp-content/plugins/simple-job-board"
+body="/wp-content/plugins/system-dashboard/"
