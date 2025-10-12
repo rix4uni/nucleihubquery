@@ -30,3 +30,4 @@ services.http.response.html_title:"Acronis Cyber Infrastructure" and services.po
 services.http.response.html_title="Prometheus Time Series Collection and Processing Server"
 services.http.response.favicons.md5_hash: 5ee43b38986a144d6b5022ea8c8f748f
 services.http.response.html_title="solarwinds access rights manager"
+services.http.response.html_title="GlobalProtect Portal"

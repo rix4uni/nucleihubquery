@@ -88,3 +88,4 @@ app.name="泛微 e-mobile OA"
 欢迎使用任我行CRM
 web.body="uap/rbac"
 web.title="AnalyticsCloud 分析云"
+web.title="GlobalProtect Portal"

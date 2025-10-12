@@ -5351,3 +5351,5 @@ http.html:"kkfileview"
 http.html:"SitecoSitecore Experience Platform"
 http.html:"wp-content/themes/search-and-go/"
 http.html:"wp-content/plugins/popup-builder-block/"
+http.favicon.hash:-1445519482
+html:"posstaticfooter"
