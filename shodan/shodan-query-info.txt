@@ -2643,3 +2643,4 @@ meteobridge
 html:"redoc.standalone.js"
 http.title:"HOOBS"
 http.favicon.hash:-542502280
+http.title:"ThingsBoard"

@@ -9948,3 +9948,7 @@ product:"vsftpd"
 http.html:"/wp-content/plugins/woocommerce-abandoned-cart/"
 http.html:"wp-content/plugins/cookie-notice-consent/"
 title:"imageRUNNER"
+html:"Odoo"
+vuln:cve-2021-26855
+http.title:"outlook"
+cpe:"cpe:2.3:a:microsoft:exchange_server"
