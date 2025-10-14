@@ -5355,3 +5355,5 @@ http.favicon.hash:-1445519482
 html:"posstaticfooter"
 title:"IBM Data Risk Manager"
 html:"Mitel" html:"MiCollab"
+http.html:"wp-content/plugins/wp-freeio/"
+http.html:"wp-content/plugins/wc-designer-pro/"

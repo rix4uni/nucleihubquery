@@ -18053,3 +18053,15 @@ title="Hospital Management System" && body="HMS"
 body="/wp-content/plugins/system-dashboard/"
 title="GlobalProtect Portal"
 icon_hash="1521468900"
+wp-content/themes/newsup/
+wp-content/plugins/code-quality-control-tool/
+wp-content/plugins/easy-plugin-stats/
+wp-content/plugins/stock-snapshot-for-woocommerce/
+wp-content/plugins/wc-designer-pro/
+wp-content/plugins/widgetpack-comment-system/
+wp-content/plugins/wp-easy-toggles/
+wp-content/plugins/wp-freeio/
+wp-content/plugins/wp-webcam-widget-shortcode/
+wp-content/plugins/course-redirects-for-learndash/
+wp-content/plugins/page-blocks/
+icon_hash="-463230636" && body="setup"

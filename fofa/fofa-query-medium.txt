@@ -11167,3 +11167,9 @@ wp-content/plugins/trinity-audio/
 body="/wp-content/plugins/simple-job-board"
 body="/wp-content/plugins/system-dashboard/"
 title="GlobalProtect Portal"
+title="vrealize log insight"
+wp-content/plugins/cm-invitation-codes/
+wp-content/plugins/widgetpack-comment-system/
+wp-content/plugins/course-redirects-for-learndash/
+wp-content/plugins/code-quality-control-tool/
+wp-content/plugins/page-blocks/

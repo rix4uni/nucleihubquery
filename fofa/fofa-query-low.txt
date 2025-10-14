@@ -8611,3 +8611,13 @@ wp-content/plugins/ultimate-multi-design-video-carousel/
 wp-content/plugins/majestic-before-after-image/
 wp-content/plugins/lisfinity-core/
 body="/@vite/client"
+wp-content/plugins/gsheetconnector-gravity-forms/
+wp-content/themes/newsup/
+wp-content/plugins/code-quality-control-tool/
+wp-content/plugins/easy-plugin-stats/
+wp-content/plugins/stock-snapshot-for-woocommerce/
+wp-content/plugins/wc-designer-pro/
+wp-content/plugins/wp-easy-toggles/
+wp-content/plugins/wp-freeio/
+wp-content/plugins/wp-webcam-widget-shortcode/
+wp-content/plugins/trinity-audio/

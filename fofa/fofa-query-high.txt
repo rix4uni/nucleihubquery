@@ -6530,3 +6530,4 @@ body="/wp-content/plugins/woocommerce-abandoned-cart/"
 wp-content/plugins/cookie-notice-consent/
 title="Hospital Management System" && body="HMS"
 app="Traccar"
+icon_hash="-463230636" && body="setup"
