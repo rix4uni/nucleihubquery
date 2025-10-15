@@ -2644,3 +2644,36 @@ html:"redoc.standalone.js"
 http.title:"HOOBS"
 http.favicon.hash:-542502280
 http.title:"ThingsBoard"
+title:"Apache ActiveMQ"
+"Server: MiniUPnPd"
+http.favicon.hash:-144483185
+"Server: awselb"
+http.title:"Behin Bazaar"
+"Server: bytex"
+http.favicon.hash:-276759139
+http.favicon.hash:989289239
+"Server: Netlify"
+http.title:"Pulsar Admin UI"
+"Server: SimpleHTTP"
+"Server: squid"
+"Server: Tengine"
+"Server: TornadoServer"
+http.favicon.hash:-1237480336
+"Server: GeoWebServer"
+"Server: Jetty"
+"Server: Resin"
+http.favicon.hash:1436966696
+http.title:"Barracuda-Spam-Firewall"
+http.title:"GraphQL"
+"Server: Microsoft-IIS"
+"Server: nginx"
+http.component:phpMyAdmin
+http.title:"Tiny File Manager"
+http.favicon.hash:2126845402
+http.favicon.hash:1045955894
+http.favicon.hash:11794165
+"X-Powered-By: ASP.NET"
+http.favicon.hash:-465775588
+http.title:"Welcome to Maximo"
+http.title:"X-UI Login"
+http.title:"XUI | Login"

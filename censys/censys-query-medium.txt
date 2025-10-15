@@ -1,2 +1,4 @@
 services.http.response.headers.location: /config/log_off_page.htm
 services.http.response.html_title="GlobalProtect Portal"
+services.http.response.html_title="phpLDAPadmin"
+services.http.response.html_title="Swagger UI"

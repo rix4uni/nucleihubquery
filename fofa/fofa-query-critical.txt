@@ -3354,3 +3354,12 @@ icon_hash="1521468900"
 app="骑士-74CMS"
 wp-content/plugins/wp-freeio/
 wp-content/plugins/wc-designer-pro/
+icon_hash="-463230636"
+wp-content/plugins/flex-qr-code-generator/
+wp-content/plugins/ownid-passwordless-login/
+wp-content/plugins/dynamically-display-posts/
+wp-content/plugins/orion-sms-otp-verification/
+wp-content/plugins/outdoor/
+wp-content/plugins/external-login/
+title="LG SuperSign"
+body="/wp-content/plugins/hypercomments"

@@ -42,3 +42,5 @@ MilesightVPN
 web.body="移动系统管理"
 web.title="企望制造ERP系统"
 web.title="泛微-协同办公OA"
+web.title="GeoServer"
+web.title="Werkzeug"

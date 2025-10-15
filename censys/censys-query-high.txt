@@ -1,1 +1,3 @@
 services.http.response.body:"Netman204"
+services.http.response.html_title="GeoServer"
+services.http.response.html_title="Werkzeug"

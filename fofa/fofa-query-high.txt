@@ -6531,3 +6531,12 @@ wp-content/plugins/cookie-notice-consent/
 title="Hospital Management System" && body="HMS"
 app="Traccar"
 icon_hash="-463230636" && body="setup"
+icon_hash="-1381126564"
+"Server: Resin/4.0.65"
+body="_wpeprivate"
+wp-content/plugins/find-and-replace-content/
+wp-content/plugins/lisfinity-core/
+"--apiserver-advertise-address"
+title="GeoServer"
+wp-content/plugins/wp-whydonate/
+title="Werkzeug"

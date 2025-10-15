@@ -9953,3 +9953,13 @@ vuln:cve-2021-26855
 http.title:"outlook"
 cpe:"cpe:2.3:a:microsoft:exchange_server"
 html:"/help/index.jsp"
+http.favicon.hash:"-1381126564"
+"Server: Resin/4.0.65"
+http.favicon.hash:-465775588
+http.title:"Welcome to Maximo"
+http.html:"wp-content/plugins/find-and-replace-content/"
+http.html:"wp-content/plugins/lisfinity-core/"
+http.title:"GeoServer"
+http.component:"GeoServer"
+http.html:"wp-content/plugins/wp-whydonate/"
+http.title:"Werkzeug"

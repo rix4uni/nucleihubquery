@@ -453,3 +453,6 @@ intitle:"squirrelmail"
 intitle:jira
 intext:"totemomail" inurl:responsiveui
 intitle:"zywall2plus"
+inurl:"netlify.app/admin"
+intext:"GraphQL" intitle:"GraphQL"
+intitle:"X-UI Login"
