@@ -11186,3 +11186,6 @@ body="/wp-content/plugins/trinity-audio"
 body='"apiServer":"https://api.bizzabo.com"'
 title="Swagger UI"
 wp-content/plugins/binary-mlm-plan/
+wp-content/plugins/pojo-accessibility/
+wp-content/themes/uncode/
+wp-content/plugins/wp-gmail-smtp/

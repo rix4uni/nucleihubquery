@@ -2677,3 +2677,4 @@ http.favicon.hash:-465775588
 http.title:"Welcome to Maximo"
 http.title:"X-UI Login"
 http.title:"XUI | Login"
+http.favicon.hash:385597939

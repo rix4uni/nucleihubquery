@@ -5845,3 +5845,5 @@ inurl:"/wp-content/plugins/lisfinity-core/"
 inurl:/geoserver/web/
 inurl:"/wp-content/plugins/wp-whydonate/"
 intitle:"Werkzeug"
+inurl:"/wp-content/plugins/acclectic-media-organizer/"
+inurl:ckfinder/ckfinder.html ext:html

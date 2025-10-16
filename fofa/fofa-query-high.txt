@@ -6540,3 +6540,4 @@ wp-content/plugins/lisfinity-core/
 title="GeoServer"
 wp-content/plugins/wp-whydonate/
 title="Werkzeug"
+wp-content/plugins/acclectic-media-organizer/

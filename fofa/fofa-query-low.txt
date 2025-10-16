@@ -8642,3 +8642,9 @@ wp-content/plugins/docodoco-store-locator/
 wp-content/plugins/wp-google-map/
 wp-content/plugins/binary-mlm-plan/
 wp-content/plugins/oceanpayment-creditcard-gateway/
+wp-content/themes/classified-pro/
+wp-content/themes/felan-framework/
+wp-content/plugins/truelysell-core/
+wp-content/plugins/authorsy/
+wp-content/plugins/acclectic-media-organizer/
+wp-content/plugins/wp-gmail-smtp/

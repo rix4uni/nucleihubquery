@@ -3363,3 +3363,8 @@ wp-content/plugins/outdoor/
 wp-content/plugins/external-login/
 title="LG SuperSign"
 body="/wp-content/plugins/hypercomments"
+title="identity services engine"
+app="sugarcrm"
+wp-content/plugins/truelysell-core/
+wp-content/themes/felan-framework/
+body="ipeak" && body="3.5"
