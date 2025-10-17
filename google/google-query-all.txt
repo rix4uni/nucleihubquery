@@ -16335,3 +16335,8 @@ inurl:"/wp-content/plugins/truelysell-core/"
 inurl:ckfinder/ckfinder.html ext:html
 inurl:"/wp-content/plugins/authorsy/"
 inurl:"/wp-content/plugins/wp-gmail-smtp/"
+inurl:"/wp-content/plugins/window-blinds-solution/"
+inurl:"/wp-content/plugins/find-me-on/"
+inurl:"/wp-content/plugins/ctl-behance-importer-lite/"
+inurl:"/wp-content/plugins/is-human/"
+inurl:"/wp-content/plugins/ajax-woosearch/"

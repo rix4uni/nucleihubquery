@@ -8648,3 +8648,6 @@ wp-content/plugins/truelysell-core/
 wp-content/plugins/authorsy/
 wp-content/plugins/acclectic-media-organizer/
 wp-content/plugins/wp-gmail-smtp/
+wp-content/plugins/window-blinds-solution/
+wp-content/plugins/find-me-on/
+wp-content/plugins/postie/

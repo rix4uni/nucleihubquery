@@ -18141,3 +18141,8 @@ wp-content/plugins/truelysell-core/
 wp-content/plugins/authorsy/
 wp-content/plugins/wp-gmail-smtp/
 body="ipeak" && body="3.5"
+wp-content/plugins/window-blinds-solution/
+wp-content/plugins/find-me-on/
+wp-content/plugins/ctl-behance-importer-lite/
+wp-content/plugins/is-human/
+wp-content/plugins/ajax-woosearch/

@@ -3368,3 +3368,6 @@ app="sugarcrm"
 wp-content/plugins/truelysell-core/
 wp-content/themes/felan-framework/
 body="ipeak" && body="3.5"
+wp-content/plugins/ctl-behance-importer-lite/
+wp-content/plugins/is-human/
+wp-content/plugins/ajax-woosearch/
