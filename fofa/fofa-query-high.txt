@@ -6541,3 +6541,5 @@ title="GeoServer"
 wp-content/plugins/wp-whydonate/
 title="Werkzeug"
 wp-content/plugins/acclectic-media-organizer/
+wp-content/plugins/chatbot-chatgpt/
+app="XWIKI-Platform"

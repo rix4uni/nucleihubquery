@@ -5847,3 +5847,4 @@ inurl:"/wp-content/plugins/wp-whydonate/"
 intitle:"Werkzeug"
 inurl:"/wp-content/plugins/acclectic-media-organizer/"
 inurl:ckfinder/ckfinder.html ext:html
+inurl:"/wp-content/plugins/chatbot-chatgpt/"

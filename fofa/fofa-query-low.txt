@@ -8651,3 +8651,6 @@ wp-content/plugins/wp-gmail-smtp/
 wp-content/plugins/window-blinds-solution/
 wp-content/plugins/find-me-on/
 wp-content/plugins/postie/
+wp-content/plugins/gspeech/
+wp-content/plugins/fb2wp-integration-tools/
+wp-content/plugins/related-posts-lite/

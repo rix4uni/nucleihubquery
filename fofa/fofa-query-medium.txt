@@ -11189,3 +11189,5 @@ wp-content/plugins/binary-mlm-plan/
 wp-content/plugins/pojo-accessibility/
 wp-content/themes/uncode/
 wp-content/plugins/wp-gmail-smtp/
+wp-content/plugins/embed-power-bi-reports/
+CentreStack - Login

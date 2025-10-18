@@ -18146,3 +18146,7 @@ wp-content/plugins/find-me-on/
 wp-content/plugins/ctl-behance-importer-lite/
 wp-content/plugins/is-human/
 wp-content/plugins/ajax-woosearch/
+CentreStack - Login
+wp-content/plugins/gspeech/
+wp-content/plugins/fb2wp-integration-tools/
+app="XWIKI-Platform"
