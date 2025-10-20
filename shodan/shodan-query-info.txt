@@ -2678,3 +2678,5 @@ http.title:"Welcome to Maximo"
 http.title:"X-UI Login"
 http.title:"XUI | Login"
 http.favicon.hash:385597939
+http.title:"ENIGMA NMS"
+http.favicon.hash:-60395993
