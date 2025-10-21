@@ -8654,3 +8654,4 @@ wp-content/plugins/postie/
 wp-content/plugins/gspeech/
 wp-content/plugins/fb2wp-integration-tools/
 wp-content/plugins/related-posts-lite/
+wp-content/plugins/wp-job-board/
