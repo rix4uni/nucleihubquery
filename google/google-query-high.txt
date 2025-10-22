@@ -5848,3 +5848,4 @@ intitle:"Werkzeug"
 inurl:"/wp-content/plugins/acclectic-media-organizer/"
 inurl:ckfinder/ckfinder.html ext:html
 inurl:"/wp-content/plugins/chatbot-chatgpt/"
+inurl:"/wp-content/plugins/academy-pro/"

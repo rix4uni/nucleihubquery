@@ -6545,3 +6545,4 @@ wp-content/plugins/chatbot-chatgpt/
 app="XWIKI-Platform"
 body="redirect.pizza"
 title="人力资源信息管理系统"
+wp-content/plugins/academy-pro/
