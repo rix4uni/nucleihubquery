@@ -20948,3 +20948,8 @@ http.html:"wp-content/plugins/smcountdown/"
 http.html:"wp-content/plugins/print-button-shortcode/"
 http.html:"wp-content/plugins/responsive-progress-bar/"
 port:5353
+http.html:"wp-content/plugins/advanced-coupons-for-woocommerce-free/"
+http.html:"wp-content/plugins/td-cloud-library/"
+http.html:"wp-content/plugins/thegem-elements/"
+http.html:"wp-content/plugins/u-design-core/"
+http.html:"wp-content/plugins/mxchat-basic/"

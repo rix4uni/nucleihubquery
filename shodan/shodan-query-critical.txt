@@ -5377,3 +5377,6 @@ http.html:"wp-content/plugins/is-human/"
 http.html:"wp-content/plugins/ajax-woosearch/"
 http.title:"citrix gateway" || title:"netscaler gateway"
 http.html:"wp-content/plugins/wp-job-board/"
+title:"Ad Hoc Transfer"
+html:"Watchguard" html:"Authentication Server"
+http.html:trx_addons

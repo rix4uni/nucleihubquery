@@ -8680,3 +8680,8 @@ wp-content/plugins/material-design-iconic-font-integration/
 wp-content/plugins/smcountdown/
 wp-content/plugins/print-button-shortcode/
 wp-content/plugins/responsive-progress-bar/
+wp-content/plugins/advanced-coupons-for-woocommerce-free/
+wp-content/plugins/td-cloud-library/
+wp-content/plugins/thegem-elements/
+wp-content/plugins/u-design-core/
+wp-content/plugins/mxchat-basic/

@@ -11192,3 +11192,9 @@ wp-content/plugins/wp-gmail-smtp/
 wp-content/plugins/embed-power-bi-reports/
 CentreStack - Login
 icon_hash="97378986"
+wp-content/plugins/mxchat-basic/
+wp-content/plugins/simple-stripe/
+wp-content/plugins/replymail/
+wp-content/plugins/wpnamedusers/
+wp-content/plugins/block-country/
+wp-content/plugins/slick-google-map/
