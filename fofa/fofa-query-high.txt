@@ -6546,3 +6546,14 @@ app="XWIKI-Platform"
 body="redirect.pizza"
 title="人力资源信息管理系统"
 wp-content/plugins/academy-pro/
+wp-content/plugins/shopmagic-for-woocommerce/
+wp-content/themes/kallyas/
+wp-content/plugins/one-page-express-companion/
+wp-content/plugins/revenue/
+wp-content/themes/togo/
+wp-content/plugins/popup-builder-block/
+wp-content/plugins/quickcreator/
+wp-content/plugins/acknowledgify/
+wp-content/themes/homelancer/
+wp-content/plugins/meetinghub/
+wp-content/plugins/uichemy/

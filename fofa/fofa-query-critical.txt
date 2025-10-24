@@ -3376,3 +3376,6 @@ title="netscaler aaa"
 wp-content/plugins/wp-job-board/
 (title="citrix sd-wan") && icon_hash="177980953"
 body=trx_addons
+wp-content/themes/histudy/
+body="/wp-content/plugins/woocommerce-help-scout"
+wp-content/themes/karzo/
