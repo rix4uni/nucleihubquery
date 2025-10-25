@@ -8709,3 +8709,5 @@ wp-content/plugins/meetinghub/
 wp-content/plugins/popup-builder-block/
 wp-content/plugins/quickcreator/
 wp-content/plugins/easy-post-submission/
+wp-content/themes/genesis/
+wp-content/plugins/spendeonline/

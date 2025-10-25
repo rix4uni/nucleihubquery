@@ -11206,3 +11206,5 @@ wp-content/plugins/vnpay-for-woocommerce/
 wp-content/plugins/disable-contect-editor-for-specific-template/
 wp-content/plugins/sumomemberships/
 wp-content/plugins/indieauth/
+wp-content/plugins/woocommerce-simple-registration/
+wp-content/plugins/fusewp/

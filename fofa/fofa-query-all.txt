@@ -18218,3 +18218,7 @@ wp-content/plugins/sumomemberships/
 wp-content/plugins/uichemy/
 wp-content/plugins/acknowledgify/
 wp-content/plugins/meetinghub/
+header="Server: Apache/" && "centos"
+wp-content/themes/genesis/
+wp-content/plugins/spendeonline/
+wp-content/plugins/fusewp/
