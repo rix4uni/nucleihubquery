@@ -3381,3 +3381,4 @@ body="/wp-content/plugins/woocommerce-help-scout"
 wp-content/themes/karzo/
 app="Kentico-CMS"
 wp-content/plugins/wp-full-stripe-free/
+icon_hash="-356182173"
