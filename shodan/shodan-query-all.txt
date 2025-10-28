@@ -45394,3 +45394,5 @@ http.html:"wp-content/plugins/meetinghub/"
 http.html:"wp-content/themes/genesis/"
 http.html:"wp-content/plugins/spendeonline/"
 http.html:"wp-content/plugins/fusewp/"
+http.html:"imgproxy"
+port:1883 broker

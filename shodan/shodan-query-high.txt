@@ -9984,3 +9984,4 @@ http.html:"wp-content/plugins/meetinghub/"
 http.html:"wp-content/plugins/uichemy/"
 http.html:"wp-content/plugins/watu/"
 title:"sitecore"
+port:1883 broker

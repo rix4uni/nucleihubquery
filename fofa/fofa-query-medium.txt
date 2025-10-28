@@ -11208,3 +11208,4 @@ wp-content/plugins/sumomemberships/
 wp-content/plugins/indieauth/
 wp-content/plugins/woocommerce-simple-registration/
 wp-content/plugins/fusewp/
+body="imgproxy"

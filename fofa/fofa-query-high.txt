@@ -6557,3 +6557,4 @@ wp-content/plugins/acknowledgify/
 wp-content/themes/homelancer/
 wp-content/plugins/meetinghub/
 wp-content/plugins/uichemy/
+app="NETGEAR" && "R6850"
