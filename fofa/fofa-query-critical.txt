@@ -3382,3 +3382,4 @@ wp-content/themes/karzo/
 app="Kentico-CMS"
 wp-content/plugins/wp-full-stripe-free/
 icon_hash="-356182173"
+((header="Server: Netty@SpringBoot" || (body="Whitelabel Error Page" && body="There was an unexpected error")) && body!="couchdb") || title="SpringBootAdmin-Server" || body="SpringBoot"

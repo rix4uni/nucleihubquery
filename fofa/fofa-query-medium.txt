@@ -11209,3 +11209,5 @@ wp-content/plugins/indieauth/
 wp-content/plugins/woocommerce-simple-registration/
 wp-content/plugins/fusewp/
 body="imgproxy"
+body="welcome.cgi?p=logo"
+title="ivanti connect secure"

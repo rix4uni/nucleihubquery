@@ -18224,3 +18224,4 @@ wp-content/plugins/spendeonline/
 wp-content/plugins/fusewp/
 icon_hash="-356182173"
 body="imgproxy"
+((header="Server: Netty@SpringBoot" || (body="Whitelabel Error Page" && body="There was an unexpected error")) && body!="couchdb") || title="SpringBootAdmin-Server" || body="SpringBoot"
