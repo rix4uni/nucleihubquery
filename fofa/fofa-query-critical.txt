@@ -3383,3 +3383,20 @@ app="Kentico-CMS"
 wp-content/plugins/wp-full-stripe-free/
 icon_hash="-356182173"
 ((header="Server: Netty@SpringBoot" || (body="Whitelabel Error Page" && body="There was an unexpected error")) && body!="couchdb") || title="SpringBootAdmin-Server" || body="SpringBoot"
+wp-content/plugins/wp-abstracts-manuscripts-manager/
+wp-content/plugins/happy-helpdesk-support-ticket-system/
+wp-content/themes/joly/
+wp-content/themes/homeroofer/
+wp-content/themes/billey/
+wp-content/themes/noisa/
+wp-content/themes/greenify/
+wp-content/plugins/jet-search/
+wp-content/themes/savory/
+wp-content/plugins/woo-vehicle-parts-finder/
+title="VMware VCenter"
+wp-content/themes/neuronet/
+wp-content/themes/xcare/
+wp-content/themes/grevo/
+wp-content/themes/academist/
+wp-content/plugins/king-addons/
+wp-content/plugins/thegem-elements/
