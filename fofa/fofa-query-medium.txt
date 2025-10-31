@@ -11259,3 +11259,4 @@ wp-content/plugins/acf-to-rest-api/
 wp-content/plugins/email-attachment-by-order-status-products/
 wp-content/plugins/wpcode-content-ratio/
 wp-content/plugins/reloadly-topup-widget/
+wp-content/plugins/wp-analytify-pro/

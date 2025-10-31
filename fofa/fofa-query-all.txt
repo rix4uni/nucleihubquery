@@ -18337,3 +18337,9 @@ wp-content/plugins/wpcode-content-ratio/
 wp-content/plugins/ts-demo-importer/
 wp-content/plugins/reoon-email-verifier/
 wp-content/plugins/reloadly-topup-widget/
+wp-content/plugins/qzzr-shortcode/
+wp-content/plugins/wpc-name-your-price/
+wp-content/plugins/wp-analytify-pro/
+wp-content/plugins/eri-file-library/
+body="/wp-content/plugins/userpro/"
+wp-content/plugins/zombify/

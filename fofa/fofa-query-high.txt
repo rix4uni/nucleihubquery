@@ -6596,3 +6596,6 @@ wp-content/plugins/reoon-email-verifier/
 wp-content/plugins/riovizual/
 wp-content/plugins/seo-meta-description-updater/
 wp-content/plugins/ts-demo-importer/
+wp-content/plugins/wc-designer-pro/
+wp-content/plugins/wpc-name-your-price/
+wp-content/plugins/eri-file-library/

@@ -3400,3 +3400,4 @@ wp-content/themes/grevo/
 wp-content/themes/academist/
 wp-content/plugins/king-addons/
 wp-content/plugins/thegem-elements/
+body="/wp-content/plugins/userpro/"

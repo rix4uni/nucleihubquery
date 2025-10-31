@@ -8770,3 +8770,8 @@ wp-content/themes/news-event/
 wp-content/plugins/query-posts/
 wp-content/plugins/ts-demo-importer/
 wp-content/plugins/reoon-email-verifier/
+wp-content/plugins/qzzr-shortcode/
+wp-content/plugins/fusewp/
+wp-content/plugins/wp-analytify-pro/
+wp-content/plugins/zombify/
+wp-content/plugins/wpc-name-your-price/
