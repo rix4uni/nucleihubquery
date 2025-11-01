@@ -8775,3 +8775,8 @@ wp-content/plugins/fusewp/
 wp-content/plugins/wp-analytify-pro/
 wp-content/plugins/zombify/
 wp-content/plugins/wpc-name-your-price/
+wp-content/plugins/nazy-load/
+wp-content/plugins/folderly/
+wp-content/plugins/doccure/
+wp-content/plugins/restful-syndication/
+wp-content/plugins/schema-scalpel/

@@ -11260,3 +11260,6 @@ wp-content/plugins/email-attachment-by-order-status-products/
 wp-content/plugins/wpcode-content-ratio/
 wp-content/plugins/reloadly-topup-widget/
 wp-content/plugins/wp-analytify-pro/
+title="RiteCMS"
+body="zimbra collaboration suite web client"
+body="wp-content/plugins/the-events-calendar/"

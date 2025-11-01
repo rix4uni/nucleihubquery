@@ -6599,3 +6599,7 @@ wp-content/plugins/ts-demo-importer/
 wp-content/plugins/wc-designer-pro/
 wp-content/plugins/wpc-name-your-price/
 wp-content/plugins/eri-file-library/
+wp-content/plugins/advanced-ads/
+title="E-Business Suite"
+wp-content/plugins/document-library-lite/
+wp-content/plugins/community-events/

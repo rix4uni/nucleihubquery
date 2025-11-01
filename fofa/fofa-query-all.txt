@@ -18343,3 +18343,12 @@ wp-content/plugins/wp-analytify-pro/
 wp-content/plugins/eri-file-library/
 body="/wp-content/plugins/userpro/"
 wp-content/plugins/zombify/
+title="RiteCMS"
+wp-content/plugins/nazy-load/
+wp-content/plugins/folderly/
+wp-content/plugins/doccure/
+body="zimbra collaboration suite web client"
+body="wp-content/plugins/the-events-calendar/"
+wp-content/plugins/document-library-lite/
+wp-content/plugins/restful-syndication/
+wp-content/plugins/schema-scalpel/
