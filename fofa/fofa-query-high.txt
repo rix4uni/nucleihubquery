@@ -6603,3 +6603,4 @@ wp-content/plugins/advanced-ads/
 title="E-Business Suite"
 wp-content/plugins/document-library-lite/
 wp-content/plugins/community-events/
+title="Letta"

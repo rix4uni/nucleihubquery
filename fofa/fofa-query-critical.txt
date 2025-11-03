@@ -3403,3 +3403,5 @@ wp-content/plugins/thegem-elements/
 body="/wp-content/plugins/userpro/"
 wp-content/plugins/tablesome/
 wp-content/plugins/doccure/
+"Set-Cookie: dnn_IsMobile"
+icon_hash="-1465479343"

@@ -5409,3 +5409,5 @@ http.html:"wp-content/plugins/king-addons/"
 http.html:"wp-content/plugins/thegem-elements/"
 http.html:"wp-content/plugins/tablesome/"
 http.html:"wp-content/plugins/doccure/"
+"Set-Cookie: dnn_IsMobile"
+http.favicon.hash:-1465479343
