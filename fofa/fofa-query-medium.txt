@@ -11263,3 +11263,15 @@ wp-content/plugins/wp-analytify-pro/
 title="RiteCMS"
 body="zimbra collaboration suite web client"
 body="wp-content/plugins/the-events-calendar/"
+wp-content/plugins/brzon/
+wp-content/plugins/top-bar-notification/
+wp-content/plugins/mapmap/
+wp-content/plugins/centangle-team/
+wp-content/plugins/label-plugins/
+wp-content/plugins/posts-navigation-links-for-sections-and-headings-free-by-wp-masters/
+wp-content/plugins/sh-contextual-help/
+wp-content/plugins/viaads/
+wp-content/plugins/wp-global-screen-options/
+wp-content/plugins/lmbbox-smileys/
+wp-content/plugins/linkedin-resume/
+wp-content/plugins/wpcf7-stop-words/

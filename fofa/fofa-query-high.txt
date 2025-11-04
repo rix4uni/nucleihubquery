@@ -6604,3 +6604,10 @@ title="E-Business Suite"
 wp-content/plugins/document-library-lite/
 wp-content/plugins/community-events/
 title="Letta"
+wp-content/plugins/footnotes-made-easy/
+wp-content/plugins/simple-user-capabilities/
+wp-content/plugins/range-slider-addon-for-gravity-forms/
+wp-content/plugins/simple-payment/
+wp-content/plugins/dominokit/
+wp-content/plugins/aio-time-clock-lite/
+wp-content/plugins/crypto-payment-gateway-with-payeer-for-woocommerce/
