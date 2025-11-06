@@ -18429,3 +18429,10 @@ wp-content/plugins/realpress/
 wp-content/themes/scape/
 wp-content/plugins/wp-snow-effect/
 wp-content/themes/clanora/
+wp-content/themes/jina/
+wp-content/themes/nrgrestaurant/
+body="UniFi OS"
+wp-content/plugins/email-subscription-with-secure-captcha/
+wp-content/themes/upking/
+product="WebLogic" || header="WebLogic Server"
+icon_hash="1015186617"

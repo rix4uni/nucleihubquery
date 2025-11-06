@@ -22999,3 +22999,7 @@ http.html:"wp-content/plugins/stockie-extra/"
 http.html:"wp-content/themes/wprentals/"
 http.html:"wp-content/plugins/wp-smart-flexslider/"
 http.html:"wp-content/themes/triss/"
+port:53
+http.html:"wp-content/plugins/email-subscription-with-secure-captcha/"
+http.component:"apache tomcat"
+product:"tomcat"

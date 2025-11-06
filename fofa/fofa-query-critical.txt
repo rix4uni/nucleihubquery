@@ -3429,3 +3429,10 @@ wp-content/plugins/subscribe-to-download/
 wp-content/themes/bugspatrol/
 wp-content/themes/scape/
 wp-content/themes/clanora/
+app="churchcrm"
+wp-content/themes/jina/
+wp-content/themes/nrgrestaurant/
+body="UniFi OS"
+wp-content/themes/upking/
+product="WebLogic" || header="WebLogic Server"
+icon_hash="1015186617"

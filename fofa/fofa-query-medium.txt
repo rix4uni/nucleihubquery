@@ -11290,3 +11290,4 @@ wp-content/plugins/stockie-extra/
 wp-content/themes/wprentals/
 wp-content/plugins/wp-smart-flexslider/
 wp-content/themes/triss/
+wp-content/plugins/email-subscription-with-secure-captcha/

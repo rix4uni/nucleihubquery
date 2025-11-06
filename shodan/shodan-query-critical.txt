@@ -5437,3 +5437,14 @@ http.html:"wp-content/plugins/subscribe-to-download/"
 http.html:"wp-content/themes/bugspatrol/"
 http.html:"wp-content/themes/scape/"
 http.html:"wp-content/themes/clanora/"
+http.title:"churchcrm"
+http.html:"wp-content/themes/jina/"
+http.html:"wp-content/themes/nrgrestaurant/"
+http.html:"UniFi OS"
+http.html:"wp-content/themes/upking/"
+cpe:"cpe:2.3:a:oracle:weblogic_server"
+product:"WebLogic"
+http.server:"WebLogic"
+port:7001
+http.favicon.hash:1015186617
+http.favicon.hash:-1952619005

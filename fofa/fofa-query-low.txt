@@ -8826,3 +8826,4 @@ wp-content/plugins/polylang/
 wp-content/plugins/wt-smart-coupons-for-woocommerce/
 wp-content/plugins/captcha-eu/
 wp-content/themes/couponxxl/
+wp-content/plugins/email-subscription-with-secure-captcha/

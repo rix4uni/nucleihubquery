@@ -10845,3 +10845,5 @@ inurl:"/wp-content/plugins/stockie-extra/"
 inurl:"/wp-content/themes/wprentals/"
 inurl:"/wp-content/plugins/wp-smart-flexslider/"
 inurl:"/wp-content/themes/triss/"
+inurl:"/wp-content/plugins/email-subscription-with-secure-captcha/"
+site:*/examples/jsp/snp/snoop.jsp
