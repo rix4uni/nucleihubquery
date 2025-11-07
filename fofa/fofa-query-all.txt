@@ -18436,3 +18436,4 @@ wp-content/plugins/email-subscription-with-secure-captcha/
 wp-content/themes/upking/
 product="WebLogic" || header="WebLogic Server"
 icon_hash="1015186617"
+wp-content/plugins/page-post-notes/
