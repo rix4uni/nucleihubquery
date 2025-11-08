@@ -10847,3 +10847,5 @@ inurl:"/wp-content/plugins/wp-smart-flexslider/"
 inurl:"/wp-content/themes/triss/"
 inurl:"/wp-content/plugins/email-subscription-with-secure-captcha/"
 site:*/examples/jsp/snp/snoop.jsp
+inurl:"/wp-content/plugins/facebook-auto-publish/"
+inurl:"/wp-content/plugins/academy-pro/"

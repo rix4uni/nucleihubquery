@@ -23003,3 +23003,6 @@ port:53
 http.html:"wp-content/plugins/email-subscription-with-secure-captcha/"
 http.component:"apache tomcat"
 product:"tomcat"
+http.html:"wp-content/plugins/facebook-auto-publish/"
+title:"TileServer-php"
+http.html:"wp-content/plugins/academy-pro/"

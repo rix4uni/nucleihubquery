@@ -11291,3 +11291,6 @@ wp-content/themes/wprentals/
 wp-content/plugins/wp-smart-flexslider/
 wp-content/themes/triss/
 wp-content/plugins/email-subscription-with-secure-captcha/
+wp-content/plugins/facebook-auto-publish/
+title="TileServer-php"
+wp-content/plugins/academy-pro/

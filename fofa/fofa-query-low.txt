@@ -8828,3 +8828,7 @@ wp-content/plugins/captcha-eu/
 wp-content/themes/couponxxl/
 wp-content/plugins/email-subscription-with-secure-captcha/
 wp-content/plugins/page-post-notes/
+wp-content/plugins/groups/
+wp-content/plugins/smart-auto-upload-images/
+wp-content/plugins/integrate-contact-form-7-and-aweber/
+wp-content/plugins/saphali-liqpay-for-donate/

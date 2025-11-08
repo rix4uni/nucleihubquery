@@ -18437,3 +18437,9 @@ wp-content/themes/upking/
 product="WebLogic" || header="WebLogic Server"
 icon_hash="1015186617"
 wp-content/plugins/page-post-notes/
+wp-content/plugins/groups/
+wp-content/plugins/facebook-auto-publish/
+wp-content/plugins/smart-auto-upload-images/
+title="TileServer-php"
+body="BentoML"
+wp-content/plugins/saphali-liqpay-for-donate/
