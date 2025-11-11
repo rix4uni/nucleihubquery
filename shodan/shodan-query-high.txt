@@ -10058,3 +10058,6 @@ http.favicon.hash:1015186617
 http.html:"wp-content/plugins/ghl-wizard/"
 title:"TileServer-php"
 http.html:"wp-content/plugins/ova-events-manager/"
+http.html:"wp-content/plugins/amazon-auto-links/"
+http.html:"wp-content/plugins/shelf-planner/"
+http.html:"wp-content/plugins/find-unused-images/"

@@ -6630,3 +6630,6 @@ icon_hash="1015186617"
 wp-content/plugins/ghl-wizard/
 title="TileServer-php"
 wp-content/plugins/ova-events-manager/
+wp-content/plugins/amazon-auto-links/
+wp-content/plugins/shelf-planner/
+wp-content/plugins/find-unused-images/

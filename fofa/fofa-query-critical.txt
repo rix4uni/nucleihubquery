@@ -3437,3 +3437,8 @@ wp-content/themes/upking/
 product="WebLogic" || header="WebLogic Server"
 icon_hash="1015186617"
 body="BentoML"
+wp-content/plugins/cpi-wp-migration/
+wp-content/plugins/tnc-toolbox/
+wp-content/plugins/holiday-class-post-calendar/
+wp-content/plugins/easycommerce/
+wp-content/plugins/getastra/

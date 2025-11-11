@@ -11294,3 +11294,14 @@ wp-content/plugins/email-subscription-with-secure-captcha/
 wp-content/plugins/facebook-auto-publish/
 title="TileServer-php"
 wp-content/plugins/academy-pro/
+wp-content/plugins/wisly/
+wp-content/plugins/shelf-planner/
+wp-content/plugins/document-pro-elementor/
+wp-content/plugins/wp-oauth/
+wp-content/plugins/usb-qr-code-scanner-for-woocommerce/
+wp-content/plugins/wp-walla/
+wp-content/plugins/yslider/
+wp-content/plugins/hydra-booking/
+wp-content/plugins/ctl-arcade-lite/
+wp-content/plugins/wp-custom-login-page-logo/
+body=/wp-content/plugins/stop-user-enumeration/
