@@ -6633,3 +6633,11 @@ wp-content/plugins/ova-events-manager/
 wp-content/plugins/amazon-auto-links/
 wp-content/plugins/shelf-planner/
 wp-content/plugins/find-unused-images/
+wp-content/plugins/email-subscription-with-secure-captcha/
+wp-content/plugins/woo-payment-gateway/
+wp-content/plugins/am-login-logo/
+wp-content/plugins/bux-woocommerce/
+wp-content/plugins/backup-and-move/
+wp-content/plugins/sertifier-certificates-open-badges/
+wp-content/plugins/3d-image-gallery/
+wp-content/plugins/download-counter/

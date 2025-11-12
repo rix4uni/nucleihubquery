@@ -11305,3 +11305,11 @@ wp-content/plugins/hydra-booking/
 wp-content/plugins/ctl-arcade-lite/
 wp-content/plugins/wp-custom-login-page-logo/
 body=/wp-content/plugins/stop-user-enumeration/
+wp-content/plugins/institutions-directory/
+wp-content/plugins/import-from-yml/
+wp-content/plugins/user-registration-aide/
+wp-content/plugins/flexoslider/
+wp-content/plugins/wc-dropi-integration/
+wp-content/themes/noo-wemusic/
+wp-content/plugins/miraculouscore/
+wp-content/plugins/grandconference-custom-post/

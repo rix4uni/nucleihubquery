@@ -8872,3 +8872,12 @@ wp-content/plugins/live-photos/
 wp-content/plugins/nonaki-email-template-customizer/
 wp-content/plugins/shelf-planner/
 wp-content/plugins/tnc-toolbox/
+wp-content/plugins/aco-wishlist-for-woocommerce/
+wp-content/plugins/3d-image-gallery/
+wp-content/plugins/sertifier-certificates-open-badges/
+wp-content/plugins/backup-and-move/
+wp-content/plugins/alt-text-generator/
+wp-content/plugins/coschool/
+wp-content/plugins/memberfindme/
+wp-content/plugins/preserve-code-formatting/
+wp-content/plugins/wpc-product-options/
