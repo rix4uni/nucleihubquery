@@ -11313,3 +11313,9 @@ wp-content/plugins/wc-dropi-integration/
 wp-content/themes/noo-wemusic/
 wp-content/plugins/miraculouscore/
 wp-content/plugins/grandconference-custom-post/
+wp-content/plugins/wp-rest-headless/
+wp-content/plugins/simple-comment-editing/
+wp-content/plugins/epic-review/
+wp-content/themes/noo-yogi/
+wp-content/themes/resca/
+wp-content/themes/woo-tour/

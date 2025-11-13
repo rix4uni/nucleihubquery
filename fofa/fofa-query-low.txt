@@ -8881,3 +8881,13 @@ wp-content/plugins/coschool/
 wp-content/plugins/memberfindme/
 wp-content/plugins/preserve-code-formatting/
 wp-content/plugins/wpc-product-options/
+wp-content/plugins/quicq/
+wp-content/themes/noo-wemusic/
+wp-content/plugins/ace-user-management/
+wp-content/plugins/download-counter-button/
+wp-content/themes/noo-yogi/
+wp-content/themes/angel/
+wp-content/plugins/wp-flipper/
+wp-content/plugins/save-as-pdf/
+wp-content/plugins/selling-commander-connector/
+wp-content/plugins/wp-rest-headless/

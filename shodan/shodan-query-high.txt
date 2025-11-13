@@ -10071,3 +10071,6 @@ http.html:"wp-content/plugins/sertifier-certificates-open-badges/"
 http.html:"wp-content/plugins/3d-image-gallery/"
 http.html:"wp-content/plugins/download-counter/"
 product:cockroachdb
+http.html:"wp-content/themes/miraculous/"
+http.html:"wp-content/plugins/info-cards/"
+http.html:"wp-content/plugins/download-counter-button/"

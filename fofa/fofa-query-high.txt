@@ -6641,3 +6641,6 @@ wp-content/plugins/backup-and-move/
 wp-content/plugins/sertifier-certificates-open-badges/
 wp-content/plugins/3d-image-gallery/
 wp-content/plugins/download-counter/
+wp-content/themes/miraculous/
+wp-content/plugins/info-cards/
+wp-content/plugins/download-counter-button/
