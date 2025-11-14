@@ -10074,3 +10074,4 @@ product:cockroachdb
 http.html:"wp-content/themes/miraculous/"
 http.html:"wp-content/plugins/info-cards/"
 http.html:"wp-content/plugins/download-counter-button/"
+html:"Login to Frappe"
