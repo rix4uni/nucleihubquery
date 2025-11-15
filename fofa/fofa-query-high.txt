@@ -6644,3 +6644,4 @@ wp-content/plugins/download-counter/
 wp-content/themes/miraculous/
 wp-content/plugins/info-cards/
 wp-content/plugins/download-counter-button/
+wp-content/plugins/qi-blocks/

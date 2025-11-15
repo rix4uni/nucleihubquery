@@ -18535,3 +18535,4 @@ wp-content/plugins/wp-flipper/
 wp-content/themes/resca/
 wp-content/themes/woo-tour/
 wp-content/plugins/save-as-pdf/
+body="/wp-content/plugins/all-in-one-wp-migration"
