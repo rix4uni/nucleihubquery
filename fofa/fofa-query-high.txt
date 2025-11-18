@@ -6645,3 +6645,9 @@ wp-content/themes/miraculous/
 wp-content/plugins/info-cards/
 wp-content/plugins/download-counter-button/
 wp-content/plugins/qi-blocks/
+wp-content/plugins/triplea-cryptocurrency-payment-gateway-for-woocommerce/
+wp-content/plugins/bp-restrict/
+wp-content/plugins/catalog-mode-pricing-enquiry-forms-promotions/
+wp-content/plugins/acf-flexible-layouts-manager/
+wp-content/plugins/live-sales-notifications-for-woocommerce/
+wp-content/plugins/wp-content-pilot/

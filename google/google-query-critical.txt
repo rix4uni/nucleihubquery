@@ -2663,3 +2663,4 @@ inurl:"/wp-content/plugins/drop-uploader-for-contact-form-7-dragdrop-file-upload
 inurl:"/wp-content/themes/famita/"
 inurl:"/wp-content/plugins/gf-infusionsoft/"
 inurl:"/wp-content/themes/itok/"
+inurl:"/wp-content/plugins/pie-forms-for-wp/"

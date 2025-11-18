@@ -11320,3 +11320,12 @@ wp-content/themes/noo-yogi/
 wp-content/themes/resca/
 wp-content/themes/woo-tour/
 body="/wp-content/plugins/all-in-one-wp-migration"
+wp-content/plugins/shortcode-generator/
+body:"GnuBoard5"
+wp-content/plugins/wp-migrate-db/
+wp-content/plugins/twitter-auto-publish/
+wp-content/plugins/wp-admin-microblog/
+wp-content/plugins/like-it/
+wp-content/plugins/project-honey-pot-spam-trap/
+wp-content/plugins/top-friends/
+wp-content/plugins/coil-web-monetization/
