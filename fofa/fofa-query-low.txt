@@ -8909,3 +8909,7 @@ wp-content/plugins/csv-to-sorttable/
 wp-content/plugins/download-panel/
 wp-content/plugins/woocommerce-ultimate-points-and-rewards/
 wp-content/plugins/wp-migrate-db/
+wp-content/plugins/wschat-live-chat/
+wp-content/plugins/login-register-using-jwt/
+wp-content/plugins/code-snippets/
+wp-content/plugins/tier-management-petfinder/

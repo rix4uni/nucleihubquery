@@ -6651,3 +6651,6 @@ wp-content/plugins/catalog-mode-pricing-enquiry-forms-promotions/
 wp-content/plugins/acf-flexible-layouts-manager/
 wp-content/plugins/live-sales-notifications-for-woocommerce/
 wp-content/plugins/wp-content-pilot/
+wp-content/plugins/easy-table-rate-shipping-for-woocommerce/
+title="Agent Zero"
+wp-content/plugins/chat-viber/

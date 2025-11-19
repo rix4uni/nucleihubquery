@@ -1132,3 +1132,6 @@ body="data-xwiki-reference"
 app="churchcrm"
 port="30005" && body="ADSB"
 body="Amazing insights. Better results."
+Server: FlowWeb
+body="Powered by <a href=\"https://hedgedoc.org\">HedgeDoc"
+WebSphere-Application-Server

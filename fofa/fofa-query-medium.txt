@@ -11329,3 +11329,4 @@ wp-content/plugins/like-it/
 wp-content/plugins/project-honey-pot-spam-trap/
 wp-content/plugins/top-friends/
 wp-content/plugins/coil-web-monetization/
+wp-content/plugins/timeslot/

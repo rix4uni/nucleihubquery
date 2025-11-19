@@ -18566,3 +18566,12 @@ wp-content/plugins/download-panel/
 wp-content/plugins/coil-web-monetization/
 body="Amazing insights. Better results."
 wp-content/plugins/woocommerce-ultimate-points-and-rewards/
+wp-content/plugins/easy-table-rate-shipping-for-woocommerce/
+wp-content/plugins/wschat-live-chat/
+wp-content/plugins/login-register-using-jwt/
+title="Agent Zero"
+Server: FlowWeb
+body="Powered by <a href=\"https://hedgedoc.org\">HedgeDoc"
+icon_hash:"-286484075"
+wp-content/plugins/tier-management-petfinder/
+WebSphere-Application-Server

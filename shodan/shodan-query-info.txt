@@ -2696,3 +2696,7 @@ Ipswitch-IMail
 http.title:"Celonis"
 html:"Amazing insights. Better results."
 http.component:"cherrypy"
+http.title:"HedgeDoc - Ideas grow better together"
+MiniUPnPd
+http.component:"lighttpd"
+http.component:"mochiweb" country:"US"
