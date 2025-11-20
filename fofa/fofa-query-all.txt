@@ -18575,3 +18575,10 @@ body="Powered by <a href=\"https://hedgedoc.org\">HedgeDoc"
 icon_hash:"-286484075"
 wp-content/plugins/tier-management-petfinder/
 WebSphere-Application-Server
+wp-content/plugins/click-to-dial/
+wp-content/plugins/posts-widget/
+wp-content/plugins/ultimate-member-widgets-for-elementor/
+wp-content/plugins/lightgallerywp/
+wp-content/plugins/click-to-mail/
+wp-content/plugins/tp-woocommerce-product-gallery/
+wp-content/plugins/eventful/

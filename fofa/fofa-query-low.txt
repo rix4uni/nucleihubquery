@@ -8913,3 +8913,5 @@ wp-content/plugins/wschat-live-chat/
 wp-content/plugins/login-register-using-jwt/
 wp-content/plugins/code-snippets/
 wp-content/plugins/tier-management-petfinder/
+wp-content/plugins/lightgallerywp/
+wp-content/plugins/tp-woocommerce-product-gallery/

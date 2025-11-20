@@ -6654,3 +6654,8 @@ wp-content/plugins/wp-content-pilot/
 wp-content/plugins/easy-table-rate-shipping-for-woocommerce/
 title="Agent Zero"
 wp-content/plugins/chat-viber/
+wp-content/plugins/click-to-dial/
+wp-content/plugins/posts-widget/
+wp-content/plugins/ultimate-member-widgets-for-elementor/
+wp-content/plugins/click-to-mail/
+wp-content/plugins/eventful/
