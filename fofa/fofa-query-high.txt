@@ -6659,3 +6659,6 @@ wp-content/plugins/posts-widget/
 wp-content/plugins/ultimate-member-widgets-for-elementor/
 wp-content/plugins/click-to-mail/
 wp-content/plugins/eventful/
+wp-content/plugins/checkbox/
+body="MPDV"
+wp-content/plugins/elex-helpdesk-customer-support-ticket-system/

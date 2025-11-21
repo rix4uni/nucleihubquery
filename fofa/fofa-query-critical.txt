@@ -3473,3 +3473,5 @@ wp-content/plugins/gf-infusionsoft/
 wp-content/themes/itok/
 wp-content/plugins/pie-forms-for-wp/
 icon_hash:"-286484075"
+body="/wp-content/plugins/dzs-zoomsounds/"
+wp-content/plugins/elex-helpdesk-customer-support-ticket-system/

@@ -11330,3 +11330,7 @@ wp-content/plugins/project-honey-pot-spam-trap/
 wp-content/plugins/top-friends/
 wp-content/plugins/coil-web-monetization/
 wp-content/plugins/timeslot/
+wp-content/plugins/tokenico-cryptocurrency-token-launchpad-presale-ico-ido-airdrop/
+wp-content/plugins/authorsure/
+wp-content/plugins/echbay-admin-security/
+wp-content/plugins/custom-post-type/
