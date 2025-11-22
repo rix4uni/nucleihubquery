@@ -11334,3 +11334,4 @@ wp-content/plugins/tokenico-cryptocurrency-token-launchpad-presale-ico-ido-airdr
 wp-content/plugins/authorsure/
 wp-content/plugins/echbay-admin-security/
 wp-content/plugins/custom-post-type/
+wp-content/plugins/zegen-core/

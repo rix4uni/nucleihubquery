@@ -10886,3 +10886,4 @@ inurl:"/wp-content/plugins/tokenico-cryptocurrency-token-launchpad-presale-ico-i
 inurl:"/wp-content/plugins/authorsure/"
 inurl:"/wp-content/plugins/echbay-admin-security/"
 inurl:"/wp-content/plugins/custom-post-type/"
+inurl:"/wp-content/plugins/zegen-core/"

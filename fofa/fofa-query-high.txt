@@ -6662,3 +6662,4 @@ wp-content/plugins/eventful/
 wp-content/plugins/checkbox/
 body="MPDV"
 wp-content/plugins/elex-helpdesk-customer-support-ticket-system/
+wp-content/plugins/oneclick-whatsapp-order/
