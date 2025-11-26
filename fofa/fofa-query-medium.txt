@@ -11341,3 +11341,5 @@ wp-content/plugins/maintenance-mode-based-on-user-roles/
 wp-content/plugins/locker-content/
 wp-content/plugins/peer-publish/
 title="Zimbra Collaboration Suite"
+wp-content/plugins/wp-youtube-lyte/
+wp-content/plugins/i-order-terms/

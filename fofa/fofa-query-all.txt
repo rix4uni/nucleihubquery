@@ -18633,3 +18633,8 @@ title="Zimbra Collaboration Suite"
 wp-content/plugins/sneeit-framework/
 wp-content/plugins/inline-frame-iframe/
 title="U9-登录"
+wp-content/plugins/accessibility-plus/
+wp-content/plugins/ai-feeds/
+wp-content/plugins/better-chat-support/
+wp-content/plugins/cibeles-ai/
+wp-content/plugins/i-order-terms/

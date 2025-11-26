@@ -8957,3 +8957,4 @@ wp-content/plugins/woo-mstoreapp-mobile-app/
 wp-content/plugins/zweb-social-mobile/
 wp-content/plugins/ace-post-type-builder/
 wp-content/plugins/inline-frame-iframe/
+wp-content/plugins/accessibility-plus/

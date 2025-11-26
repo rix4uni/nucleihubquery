@@ -3481,3 +3481,5 @@ wp-content/plugins/edukart-pro/
 wp-content/plugins/sneeit-framework/
 wp-content/plugins/woo-mstoreapp-mobile-app/
 title="U9-登录"
+wp-content/plugins/ai-feeds/
+wp-content/plugins/cibeles-ai/

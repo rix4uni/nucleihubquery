@@ -6666,3 +6666,7 @@ wp-content/plugins/oneclick-whatsapp-order/
 body="/libs/granite/core/content/login.html"
 wp-content/plugins/telegram-bot/
 wp-content/plugins/social-images-widget/
+wp-content/plugins/accessibility-plus/
+wp-content/plugins/better-chat-support/
+wp-content/plugins/custom-order-numbers-for-woocommerce/
+wp-content/plugins/cbxwpbookmark/
